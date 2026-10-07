@@ -13,7 +13,7 @@ A collection of [Agent Skills](https://code.claude.com/docs/en/skills) for AI co
 Clone the repo, then link the skills you want into your skills directory.
 
 ```bash
-git clone https://github.com/cogria/skills.git ~/cogria-skills
+git clone https://github.com/Cogria-AI/skills.git ~/cogria-skills
 
 # Personal (all projects)
 ln -s ~/cogria-skills/agent-dev-guide ~/.claude/skills/agent-dev-guide
